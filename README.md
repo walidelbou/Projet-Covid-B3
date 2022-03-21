@@ -76,4 +76,9 @@ Raconter une histoire concernant l'évolution de la pandémie covid-19 dans le m
 
 Data utilisées :
 
+- https://www.kaggle.com/datasets/imdevskp/corona-virus-report 
+- vaccination: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress 
+- autre open data : https://www.coronavirus-statistiques.com/open-data/ 
+- données en France : https://www.data.gouv.fr/fr/pages/donnees-coronavirus/ 
+- données mondiale : https://ourworldindata.org/coronavirus 
 - 
