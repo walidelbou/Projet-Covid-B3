@@ -81,4 +81,3 @@ Data utilisées :
 - autre open data : https://www.coronavirus-statistiques.com/open-data/ 
 - données en France : https://www.data.gouv.fr/fr/pages/donnees-coronavirus/ 
 - données mondiale : https://ourworldindata.org/coronavirus 
-- 
