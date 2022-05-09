@@ -6,7 +6,7 @@ Ce dépot git est créé pour le futur projet de data science qui commence ce lu
 
 Voici la liste des membres :
 - Lucas GAIO DOS SANTOS
-- E. Ahmed Walid
+- ELBOUHSSAINI Ahmed Walid
 
 Date de rendu **22 mais 2022**.
 
