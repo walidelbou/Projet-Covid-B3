@@ -7,7 +7,6 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from plotly.offline import init_notebook_mode
 init_notebook_mode(connected=True)
-import seaborn as sns
 import datetime
 
 pd.set_option('display.max_rows', None)
