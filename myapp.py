@@ -34,7 +34,7 @@ Durant cette presentation nous allons vous presenter l'historique covid 19 et so
 st.markdown('---')
 
 #-----------------------------------------------------------------------
-data = pd.read_csv('C:/Users/walid/Desktop/novel-corona-virus-2019-dataset/covid_19_data.csv')
+data = pd.read_csv('"https://raw.githubusercontent.com/walidelbou/Projet-Covid-B3/main/covid_19_data.csv')
 data["Province/State"]= data["Province/State"].fillna('Unknown')
 data[["Confirmed","Deaths","Recovered"]] =data[["Confirmed","Deaths","Recovered"]].astype(int)
 data['Country/Region'] = data['Country/Region'].replace('Mainland China', 'China')
