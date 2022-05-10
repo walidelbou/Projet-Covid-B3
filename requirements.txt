@@ -1,13 +1,5 @@
-jupyter-client==7.1.2
-jupyter-core==4.9.2
-jupyter-dash==0.4.2
-jupyterlab-pygments==0.1.2
-jupyterlab-widgets==1.0.2
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
-nbclient==0.5.11
-nbconvert==6.4.2
-notebook==6.4.8
 numpy==1.22.2
 pandas==1.4.1
 pipreqs==0.4.11
@@ -19,4 +11,3 @@ scipy==1.8.0
 seaborn==0.11.2
 sklearn==0.0
 streamlit==1.6.0
-yarg==0.1.9
