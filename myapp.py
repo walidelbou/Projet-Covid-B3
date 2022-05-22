@@ -17,19 +17,18 @@ from plotly.subplots import make_subplots
 
 #-----------------------------------------------------------------------
 
-# Title
+# Titre
 st.title('Projet Covid 19 💊💉🤮')
 
 # Subheader
 st.subheader('Realise par : ELBOUHSSAINI Ahmed Walid , GAIO DOS SANTOS Lucas')
 st.subheader('|Storytelling :')
-# Another way to write text
+
 """
 Durant cette presentation nous allons vous presenter l'historique covid 19 et son impact sur un peu partout dans le monde , ceci est la premiere fois ou nous utilisons la methode du Storytelling pour presenter des donnees
 
 """
 
-#Separator
 st.markdown('---')
 
 #-----------------------------------------------------------------------
@@ -46,7 +45,6 @@ Data_world = Data.groupby(["ObservationDate"])[["Confirmed","Active_case","Recov
 #------------------------------------------------------------------------
 data_over_time= data.groupby(["ObservationDate"])[["Confirmed","Active_case","Recovered","Deaths"]].sum().reset_index().sort_values("ObservationDate",ascending=True).reset_index(drop=True)
 st.header("Covid-19 dans le Monde - Representation graphique des donnees :")
-# Columns Summary
 
 
 
